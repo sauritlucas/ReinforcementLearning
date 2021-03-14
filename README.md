@@ -1,6 +1,7 @@
 # ReinforcementLearning
 Lab1 - Lab2 de AR
-#Integrantes
+# Integrantes
+
 Barrera, Martin
 
 Saurit, Lucas
